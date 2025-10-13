@@ -25,19 +25,9 @@ Uma aplicação interativa de leitura, desenvolvida em **React** e **TypeScript*
 ### **Pré-requisitos**
 - Node.js (v16 ou superior)
 - npm ou yarn
-
----
-
-### **Passos para Execução**
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/dizai-story-activity.git
    
 cd diz-ai-story-activity
-
 npm install
-
 npm run dev
 diz-ai-story-activity/
 ├── src/
