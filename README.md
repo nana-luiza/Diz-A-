@@ -1,4 +1,4 @@
-# Dizai Story Activity
+# Diz ai Story Activity
 
 **Descrição:**
 Uma aplicação interativa de leitura, desenvolvida em **React** e **TypeScript**. O projeto propõe atividades de alfabetização por meio da leitura de histórias curtas, incentivando as escreverem com base no que foi lido. A utilização de síntese de voz torna a experiência mais interativa e acessível, promovendo a compreensão e o interesse pela leitura de forma lúdica e envolvente.
@@ -19,17 +19,12 @@ Uma aplicação interativa de leitura, desenvolvida em **React** e **TypeScript*
 | **Acessibilidade** | Uso de `aria-label` em botões e elementos interativos                              |
 
 ---
-
-
-
-### **Pré-requisitos**
-- Node.js (v16 ou superior)
-- npm ou yarn
    
 cd diz-ai-story-activity
 npm install
 npm run dev
 diz-ai-story-activity/
+
 ├── src/
 │   ├── components/
 │   │   ├── StoryActivity.tsx   # Componente principal da atividade
