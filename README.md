@@ -19,7 +19,7 @@ Uma aplicação interativa de leitura, desenvolvida em **React** e **TypeScript*
 | **Acessibilidade** | Uso de `aria-label` em botões e elementos interativos                              |
 
 ---
-  https://ai.studio/apps/drive/1X4KQlpYaDsNovUzO_D42k50fUBmtgmnU
+https://ai.studio/apps/drive/1JSnEoZHSrBkjd9yDccCMKvp9_FD23caZ
 cd diz-ai-story-activity
 npm install
 npm run dev
