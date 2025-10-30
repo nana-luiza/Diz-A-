@@ -1,4 +1,4 @@
-# Diz ai Story Activity
+# Diz ai Story 
 
 **Descrição:**
 Uma aplicação interativa de leitura, desenvolvida em **React** e **TypeScript**. O projeto propõe atividades de alfabetização por meio da leitura de histórias curtas, incentivando as escreverem com base no que foi lido. A utilização de síntese de voz torna a experiência mais interativa e acessível, promovendo a compreensão e o interesse pela leitura de forma lúdica e envolvente.
